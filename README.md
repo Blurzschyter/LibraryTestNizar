@@ -22,7 +22,7 @@ pod 'LibraryTestNizar'
 
 ## Author
 
-23515008, abc@gmail.com
+23515008, abcde@gmail.com
 
 ## License
 
