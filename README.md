@@ -22,7 +22,7 @@ pod 'LibraryTestNizar'
 
 ## Author
 
-23515008, sharulnizar.razali@gmail.com
+23515008, abc@gmail.com
 
 ## License
 
