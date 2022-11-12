@@ -1,0 +1,16 @@
+PODS:
+  - LibraryTestNizar (0.1.0)
+
+DEPENDENCIES:
+  - LibraryTestNizar (from `../`)
+
+EXTERNAL SOURCES:
+  LibraryTestNizar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LibraryTestNizar: 4bf3135d7bfb2d1c13b3a1763616c51d8e465551
+
+PODFILE CHECKSUM: 63a06a7b4c1ae61f6a4bec714769ce22b222062d
+
+COCOAPODS: 1.11.2

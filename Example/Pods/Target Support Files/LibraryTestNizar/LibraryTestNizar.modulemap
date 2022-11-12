@@ -1,0 +1,6 @@
+framework module LibraryTestNizar {
+  umbrella header "LibraryTestNizar-umbrella.h"
+
+  export *
+  module * { export * }
+}

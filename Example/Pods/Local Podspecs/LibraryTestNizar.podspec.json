@@ -1,0 +1,22 @@
+{
+  "name": "LibraryTestNizar",
+  "version": "0.1.0",
+  "summary": "A short description of LibraryTestNizar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/23515008/LibraryTestNizar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "23515008": "sharulnizar.razali@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/23515008/LibraryTestNizar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LibraryTestNizar/Classes/**/*"
+}

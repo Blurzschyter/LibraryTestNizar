@@ -1,0 +1,6 @@
+framework module Pods_LibraryTestNizar_Example {
+  umbrella header "Pods-LibraryTestNizar_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
