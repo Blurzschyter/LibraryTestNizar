@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 'DscrollView is an awesome pod aimed to make yor life easier around UIScrollViews.'
                        DESC
 
-  s.homepage         = 'https://github.com/23515008/LibraryTestNizar'
+  s.homepage         = 'https://github.com/Blurzschyter/LibraryTestNizar'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '23515008' => 'sharulnizar.razali@gmail.com' }
-  s.source           = { :git => 'https://github.com/23515008/LibraryTestNizar.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Blurzschyter/LibraryTestNizar.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.0'
@@ -44,5 +44,5 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
-  s.dependency 'TinyContraints', '~> 4.0.0'
+  s.dependency 'TinyConstraints', '~> 4.0.0'
 end
