@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'LibraryTestNizar_Example' do
+  pod 'LibraryTestNizar', :path => '../'
+
+  target 'LibraryTestNizar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
