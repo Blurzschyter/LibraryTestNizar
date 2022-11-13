@@ -27,3 +27,5 @@ pod 'LibraryTestNizar'
 ## License
 
 LibraryTestNizar is available under the MIT license. See the LICENSE file for more info.
+https://img.shields.io/cocoapods/l/AFNetworking
+https://img.shields.io/cocoapods/l/LibraryTestNizar

@@ -8,6 +8,7 @@
 
 import UIKit
 import LibraryTestNizar
+import TinyConstraints
 
 class ViewController: UIViewController {
 
@@ -29,10 +30,11 @@ class ViewController: UIViewController {
                            hasStatusBarCover: true,
                            statusBarBackgroundColor: .white,
                            container: scrollViewContainer,
-                           elements: scrollViewElement0, scrollViewElement1)
+                           elements: [scrollViewElement0, scrollViewElement1])
         
         scrollViewElement1.addSubview(label)
-        label.edgeTo(scrollViewElement1)
+//        label.edgeTo(scrollViewElement1)
+        label.centerInSuperview()
     }
 
     override func didReceiveMemoryWarning() {

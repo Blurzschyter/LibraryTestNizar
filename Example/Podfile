@@ -1,8 +1,9 @@
 use_frameworks!
 
-platform :ios, '10.0'
+platform :ios, '12.0'
 
 target 'LibraryTestNizar_Example' do
+  pod 'TinyConstraints', '~> 4.0.0'
   pod 'LibraryTestNizar', :path => '../'
 
   target 'LibraryTestNizar_Tests' do
