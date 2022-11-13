@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LibraryTestNizar'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'LibraryTestNizar is sample implemented based on Rebeloper tutorial on YouTube.'
 
 # This description is used to generate tags and improve search results.
